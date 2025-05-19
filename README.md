@@ -36,7 +36,7 @@ f1-race-analytics/
 
 ## 🧪 Available examples
 
-- **[Imola 2024 - Análisis comparativo Verstappen vs. Piastri](notebooks/GP_Imola_2025_Analysis.ipynb)**  
+- **[Imola 2025- Verstappen vs. Piastri comparative analysis](notebooks/GP_Imola_2025_Analysis.ipynb)**  
 Includes visualisation and comparison of strategies, race pace and performance.
 
 ## 🚀 How to use
