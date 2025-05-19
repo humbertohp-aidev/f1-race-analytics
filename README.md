@@ -36,14 +36,14 @@ f1-race-analytics/
 
 ## 🧪 Available examples
 
-- **[Imola 2024 - Análisis comparativo Verstappen vs. Piastri](notebooks/GP_Imola_2024_Analysis.ipynb)**  
-Incluye visualizaciones interactivas y comparativas de estrategias, ritmo de carrera y desempeño.
+- **[Imola 2024 - Análisis comparativo Verstappen vs. Piastri](notebooks/GP_Imola_2025_Analysis.ipynb)**  
+Includes visualisation and comparison of strategies, race pace and performance.
 
 ## 🚀 How to use
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tuusuario/f1-race-analytics.git
+git clone https://github.com/humbertohp-aidev/f1-race-analytics.git
 ```
 
 2. Install the dependencies:
@@ -60,8 +60,8 @@ pip install -r requirements.txt
 
 ## 📫 Contact
 This project is part of my portfolio as a data scientist and data analyst with an interest in working the world of professional sports (F1, Football, etc.).
-You may contact me by [LinkedIn](https://www.linkedin.com/in/tuusuario) or see more on my profile.
+You may contact me by [LinkedIn](https://www.linkedin.com/in/humbertohp-aidev) or see more on my profile.
 
 ---
 
-**Repositorio in constant developing 🚧** – new races will be added after each relevant GP.
+**Repository in constant developing 🚧** – new races will be added after each relevant GP.
